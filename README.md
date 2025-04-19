@@ -1,4 +1,3 @@
-Sure! Here's a clean, professional `README.md` you can use for your GitHub repository that hosts **Google Colab notebooks** for the **AI Agent Developer Specialization by Vanderbilt University**.
 
 ---
 
